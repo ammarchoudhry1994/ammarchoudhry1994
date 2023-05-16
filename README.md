@@ -5,9 +5,9 @@
 
 - 🔭 I’ve worked on **10+ projects**
 
-- 🌱 I’m currently learning **Next.js, Web3**
+- 🌱 I’m currently learning **Next.js, Web3 and many new things** :)
 
-- 💬 Ask me about **Rails, & React**
+- 💬 Ask me about **Rails & React**
 
 - 📫 How to reach me **ammarchoudhry1994@gmail.com**
 
