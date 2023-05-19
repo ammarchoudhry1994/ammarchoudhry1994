@@ -5,7 +5,7 @@
 
 - 🔭 I’ve worked on **10+ projects**
 
-- 🌱 I’m currently learning **Next.js, Web3 and many new things** :)
+- 🌱 I’m currently learning **Next.js, Web3 and some other cool stuff** :)
 
 - 💬 Ask me about **Rails & React**
 
