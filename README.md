@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ammar</h1>
-<h3 align="center">A Passionate Full Stack Ruby on Rails Developer</h3>
+<h3 align="center">A Passionate Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ammarchoudhry1994&label=Profile%20views&color=0e75b6&style=flat" alt="ammarchoudhry1994" /> </p>
 
 - 🔭 I’ve worked on **10+ projects**
 
-- 🌱 I’m currently learning **Next.js, Web3 and some other cool stuff** :)
+- 🌱 I love working on the backend and frontend as well. :)
 
-- 💬 Ask me about **Rails & React**
+- 💬 I write articles sometimes**
 
-- 📫 How to reach me **ammarchoudhry1994@gmail.com**
+- Looking for a collaborator? HMU at --> **ammarchoudhry1994@gmail.com**
 
 <p align="left">
 </p>
