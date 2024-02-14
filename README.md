@@ -3,11 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ammarchoudhry1994&label=Profile%20views&color=0e75b6&style=flat" alt="ammarchoudhry1994" /> </p>
 
-- 🔭 I’ve worked on **10+ projects**
+- 🔭 I’ve worked on **20+ projects in the past 5+ years!**
 
-- 🌱 I love working on the backend and frontend as well. :)
+- 🚀 Proficient in JS frameworks like NodeJS -> ExpressJS, NestJS AND ReactJS -> NextJS 🔥.
 
-- 💬 I write articles sometimes**
+- 🚀 Worked with Ruby on Rails 4/5/6/7 extensively.
+
+- 👯 I’m looking to collaborate on any Ruby on Rails / NodeJS / Django / ReactJS / Angular projects
+
+🤝 On a hunt for a full-time position as a full-stack engineer.
 
 - Looking for a collaborator? HMU at --> **ammarchoudhry1994@gmail.com**
 
