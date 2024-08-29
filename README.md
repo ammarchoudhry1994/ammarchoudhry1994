@@ -5,15 +5,13 @@
 
 - 🔭 I’ve worked on **20+ projects in the past 5+ years!**
 
-- 🚀 Proficient in JS frameworks like NodeJS -> ExpressJS, NestJS AND ReactJS -> NextJS 🔥.
+- 🚀 Proficient in Ruby on Rails
 
 - 🚀 Worked with Ruby on Rails 4/5/6/7 extensively.
 
+- 🚀 Also worked with JavaScript, ReactJS, NodeJS and NextJS 🔥.
+
 - 👯 I’m looking to collaborate on any Ruby on Rails / NodeJS / Django / ReactJS / Angular projects
-
-
-
-🤝 On a hunt for a full-time position as a full-stack engineer.
 
 
 
