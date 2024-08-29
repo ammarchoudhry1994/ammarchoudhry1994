@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ammarchoudhry1994&label=Profile%20views&color=0e75b6&style=flat" alt="ammarchoudhry1994" /> </p>
 
-- 🔭 I’ve worked on **20+ projects in the past 5+ years!**
+- 🔭 I’ve worked on **20+ projects in the over 6 years!**
 
 - 🚀 Proficient in Ruby on Rails
 
